@@ -13,4 +13,5 @@ wikipedia>=1.4.0,<2.0.0
 prance>=23.6.21.0
 openapi-spec-validator>=0.7.1
 unstructured>=0.14.0
+tenacity>=8.0.1
 git+https://github.com/camel-ai/camel.git@feature/multi-agent-prod
